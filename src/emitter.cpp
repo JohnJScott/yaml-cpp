@@ -7,7 +7,8 @@
 #include "yaml-cpp/emittermanip.h"
 #include "yaml-cpp/exceptions.h"  // IWYU pragma: keep
 
-namespace YAML {
+namespace YAML 
+{
 class Binary;
 struct _Null;
 
