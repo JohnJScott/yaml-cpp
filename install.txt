@@ -22,3 +22,4 @@ make install
 If you don't want to use CMake, just add all .cpp files to a makefile. yaml-cpp does not need any special build settings, so no 'configure' file is necessary.
 
 (Note: this is pretty tedious. It's sooo much easier to use CMake.)
+
