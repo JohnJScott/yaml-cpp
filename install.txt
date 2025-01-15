@@ -23,3 +23,5 @@ If you don't want to use CMake, just add all .cpp files to a makefile. yaml-cpp 
 
 (Note: this is pretty tedious. It's sooo much easier to use CMake.)
 
+Ticket: fix #EWS-22
+
